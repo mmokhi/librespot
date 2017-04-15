@@ -52,7 +52,7 @@ alsa            = { git = "https://github.com/plietar/rust-alsa", optional = tru
 portaudio       = { git = "https://github.com/mvdnes/portaudio-rs", optional = true }
 libpulse-sys    = { git = "https://github.com/astro/libpulse-sys", optional = true }
 
-mdns            = { git = "https://github.com/plietar/rust-mdns" }
+mdns            = { git = "https://github.com/mmokhi/rust-mdns" }
 
 error-chain = { version = "0.9.0", default_features = false }
 futures = "0.1.8"
